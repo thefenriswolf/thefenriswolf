@@ -4,4 +4,4 @@ By day I am a radiographer.
 
 ## Academic Activity
 - [Bachelor Thesis: Machine Learning in Radiology (German)](https://permalink.obvsg.at/fhj/AC16083351)
-- [Master Thesis: micro-CT segmentation guide (English)]()
+- [Master Thesis: micro-CT segmentation guide (English)]() [Open access](https://github.com/thefenriswolf/thefenriswolf/blob/main/assets/Masterthesis_Rohrbacher_Stefan.pdf)
